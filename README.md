@@ -6,7 +6,7 @@ This repo collects and documents NLP tools and resources for Luxembourgish. If y
 
 **SpaCy**
 
-- *Description*: Starting with version 2.2.2, SpaCy has basic language support for Luxembourgish This includes tokenization and POS tagging. 
+- *Description*: Starting with version 2.2.2, SpaCy has language support for Luxembourgish. This includes tokenization and POS tagging. 
 - *Contributors*: Peter Gilles and Christoph Purschke
 - *Link*: [https://github.com/explosion/spaCy](https://github.com/explosion/spaCy)
 
