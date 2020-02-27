@@ -8,7 +8,13 @@ This repo collects and documents NLP tools and resources for Luxembourgish. If y
 
 *Description*: Starting with version 2.2.2, SpaCy has language support for Luxembourgish. This includes tokenization and POS tagging. 
 
-*Link*: [https://github.com/explosion/spaCy](https://github.com/explosion/spaCy)
+*Link*: [github.com/explosion/spaCy](https://github.com/explosion/spaCy)
+
+**spellux**
+
+*Description*: Automatic text correction tool for Luxembourgish. Currently in development for training and evaluation. 
+
+*Link*: [github.com/questoph/spellux](https://github.com/questoph/spellux)
 
 ## Resources
 
@@ -16,10 +22,10 @@ This repo collects and documents NLP tools and resources for Luxembourgish. If y
 
 *Description*: Phonetic transcriptions of the lemma lists from [spellchecker.lu](spellchecker.lu) and [lod.lu](lod.lu)
 
-*Link*: [https://github.com/PeterGilles/Luxembourgish-language-resources](https://github.com/PeterGilles/Luxembourgish-language-resources)
+*Link*: [github.com/PeterGilles/Luxembourgish-language-resources](https://github.com/PeterGilles/Luxembourgish-language-resources)
 
-**Luxembourgish dictionary**
+**Luxembourgish dictionaries**
 
-*Description*: HunSpell dictionary and MyThes thesaurus for the Luxembourgish language based on [spellchecker.lu](spellchecker.lu)
+*Description*: HunSpell dictionary and MyThes thesaurus for the Luxembourgish language based on [spellchecker.lu](https://spellchecker.lu)
 
-*Link*: [https://github.com/spellchecker-lu/dictionary-lb-lu](https://github.com/spellchecker-lu/dictionary-lb-lu)
+*Link*: [github.com/spellchecker-lu/dictionary-lb-lu](https://github.com/spellchecker-lu/dictionary-lb-lu)
