@@ -12,7 +12,7 @@ This repo collects and documents NLP tools and resources for Luxembourgish. If y
 
 **spellux**
 
-*Description*: Automatic text correction tool for Luxembourgish. Currently in development for training and evaluation. 
+*Description*: Automatic text normalization tool for Luxembourgish (speling correction, lemmatization). Currently in development for training and evaluation. 
 
 *Link*: [github.com/questoph/spellux](https://github.com/questoph/spellux)
 
