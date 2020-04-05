@@ -4,15 +4,15 @@ This repo collects and documents NLP tools and resources for Luxembourgish. If y
 
 ## NLP tools
 
-**SpaCy**
+**spaCy**
 
-*Description*: Starting with version 2.2.2, SpaCy has language support for Luxembourgish. This includes tokenization and POS tagging. 
+*Description*: Starting with version 2.2.2, SpaCy has language support for Luxembourgish. This includes tokenization and POS tagging.
 
 *Link*: [github.com/explosion/spaCy](https://github.com/explosion/spaCy)
 
 **spellux**
 
-*Description*: Automatic text normalization tool for Luxembourgish (speling correction, lemmatization). Currently in development for training and evaluation. 
+*Description*: Automatic text normalization tool for Luxembourgish (spelling correction, lemmatization). Currently in development for training and evaluation. 
 
 *Link*: [github.com/questoph/spellux](https://github.com/questoph/spellux)
 
