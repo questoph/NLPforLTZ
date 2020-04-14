@@ -12,9 +12,15 @@ This repo collects and documents NLP tools and resources for Luxembourgish. If y
 
 **spellux**
 
-*Description*: Automatic text normalization tool for Luxembourgish (spelling correction, lemmatization). Currently in development for training and evaluation. 
+*Description*: Automatic text normalization tool for Luxembourgish (spelling correction, lemmatization). Currently in development for training and evaluation.
 
 *Link*: [github.com/questoph/spellux](https://github.com/questoph/spellux)
+
+**Syllabifier-for-Luxembourgish**
+
+*Description:* Implementation of the [Penn Phonetics Toolkit](https://sourceforge.net/projects/p2tk/) for Luxembourgish, developed by Peter Gilles. Allows the phonetic syllabification of transcribed words.
+
+*Link:* [github.com/PeterGilles/Syllabifier-for-Luxembourgish](https://github.com/PeterGilles/Syllabifier-for-Luxembourgish)
 
 ## Resources
 
