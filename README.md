@@ -1,6 +1,6 @@
 # NLPdeLUX
 
-This repo collects and documents NLP tools and resources for Luxembourgish. If you know of any that should be featured here, let me know.
+This repo collects and documents NLP tools and resources for Luxembourgish. If you know of any that should be featured here, let us know.
 
 ## NLP tools
 
