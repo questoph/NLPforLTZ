@@ -35,3 +35,9 @@ This repo collects and documents NLP tools and resources for Luxembourgish. If y
 *Description*: HunSpell dictionary and MyThes thesaurus for the Luxembourgish language based on [spellchecker.lu](https://spellchecker.lu)
 
 *Link*: [github.com/spellchecker-lu/dictionary-lb-lu](https://github.com/spellchecker-lu/dictionary-lb-lu)
+
+**Luxembourgish word embedding**
+
+*Description:* This dataset is a word embedding model trained on Luxembourgish user comments from the media platform RTL.lu. It contains data from roughly 544k Luxembourgish texts published between December 2008 and December 2018.
+
+*Link:* [https://zenodo.org/record/3978066](https://zenodo.org/record/3978066)
