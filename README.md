@@ -30,8 +30,6 @@ This repo collects and documents NLP tools and resources for Luxembourgish. If y
 
 *Link*: [https://huggingface.co/pgilles/wav2vec2-large-xls-r-LUXEMBOURGISH2](https://huggingface.co/pgilles/wav2vec2-large-xls-r-LUXEMBOURGISH2)
 
-https://huggingface.co/pgilles/wav2vec2-large-xls-r-LUXEMBOURGISH2
-
 ## Resources
 
 **Luxembourgish language resources**
