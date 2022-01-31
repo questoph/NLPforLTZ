@@ -22,6 +22,16 @@ This repo collects and documents NLP tools and resources for Luxembourgish. If y
 
 *Link:* [github.com/PeterGilles/Syllabifier-for-Luxembourgish](https://github.com/PeterGilles/Syllabifier-for-Luxembourgish)
 
+## Automatic voice recognition
+
+**wav2vec2-large-xls-r-LUXEMBOURGISH2**
+
+*Description*: This is a first experimental build of an automatic voice recogniton system by Peter Gilles trained on a custom data set (~8 hours of Luxembourgish audio+transcript data).
+
+*Link*: [https://huggingface.co/pgilles/wav2vec2-large-xls-r-LUXEMBOURGISH2](https://huggingface.co/pgilles/wav2vec2-large-xls-r-LUXEMBOURGISH2)
+
+https://huggingface.co/pgilles/wav2vec2-large-xls-r-LUXEMBOURGISH2
+
 ## Resources
 
 **Luxembourgish language resources**
