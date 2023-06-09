@@ -4,6 +4,12 @@ This repo collects and documents NLP tools and resources for Luxembourgish. If y
 
 ## NLP tools
 
+**LuxemBERT**
+
+*Description:* First Luxembourgish BERT model trained from scratch with optimizations for several downstream tasks such text classification, NEW or intent classification.
+
+*Link:* [huggingface.co/lothritz/LuxemBERT](https://huggingface.co/lothritz/LuxemBERT)
+
 **spaCy**
 
 *Description*: Starting with version 2.2.2, SpaCy has language support for Luxembourgish. This includes tokenization and POS tagging.
@@ -22,6 +28,7 @@ This repo collects and documents NLP tools and resources for Luxembourgish. If y
 
 *Link:* [github.com/PeterGilles/Syllabifier-for-Luxembourgish](https://github.com/PeterGilles/Syllabifier-for-Luxembourgish)
 
+
 ## Automatic voice recognition
 
 **wav2vec2-large-xls-r-LUXEMBOURGISH2**
@@ -29,6 +36,14 @@ This repo collects and documents NLP tools and resources for Luxembourgish. If y
 *Description*: This is a first experimental build of an automatic voice recogniton system by Peter Gilles trained on a custom data set (~8 hours of Luxembourgish audio+transcript data).
 
 *Link*: [https://huggingface.co/pgilles/wav2vec2-large-xls-r-LUXEMBOURGISH2](https://huggingface.co/pgilles/wav2vec2-large-xls-r-LUXEMBOURGISH2)
+
+## OCR
+
+**tesseract**
+
+*Description:* Starting with version 4.0, tesseract has language support for Luxembourgish for Opctical Character Recognition.
+
+*Link*: [github.com/tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract)
 
 ## Resources
 
@@ -49,3 +64,9 @@ This repo collects and documents NLP tools and resources for Luxembourgish. If y
 *Description:* This dataset is a word embedding model trained on Luxembourgish user comments from the media platform RTL.lu. It contains data from roughly 544k Luxembourgish texts published between December 2008 and December 2018.
 
 *Link:* [https://zenodo.org/record/3978066](https://zenodo.org/record/3978066)
+
+**Universal dependencies**
+
+*Description:* Repository for Luxembourgish as part of the Universal Dependecies project with POS annotated data.
+
+*Link:* [github.com/UniversalDependencies/UD_Luxembourgish-LuxBank](https://github.com/UniversalDependencies/UD_Luxembourgish-LuxBank)
